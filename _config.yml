@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kush Jain"
+  name             : "Sandeep Jain"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "CEO of OpsHub"
+  location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YBZt0-AAAAAJ&hl=en"
-  email            :  "kdjain@andrew.cmu.edu"
+  googlescholar    : 
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kjain14"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Kush_D_Jain"
+  twitter          : "ohsjain"
   vine             :
   weibo            :
   xing             :
