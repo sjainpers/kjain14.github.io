@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kush Jain"
+title                    : "Sandeep Jain"
 title_separator          : "-"
-name                     : &name "Kush Jain"
-description              : &description "PhD researcher at Carnegie Mellon University"
-url                      : https://www.kushjain.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sandeep Jain"
+description              : &description "CEO of OpsHub"
+url                      : https://sjainpers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kjain14/kjain14.github.io"
+repository               : "sjainpers/sjainpers.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
